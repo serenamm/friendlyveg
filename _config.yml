@@ -10,7 +10,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Food blog template for Jekyll.
+description: Easy vegan recipes
 author:
   name:
   email:
@@ -74,6 +74,7 @@ exclude:
 # CloudCannon
 
 social_icons:
+  - Tiktok
   - Instagram
 
 _options:

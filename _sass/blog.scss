@@ -47,7 +47,7 @@
 				list-style-type: none;
 				&:before {
 					content: '\00bb';
-					color: #ff4e4e;
+					color: #a5a58d;
 					padding-right: 0.5em;
 				}
 			}
@@ -64,7 +64,7 @@
 				&:before {
 					content: counter(step-counter);
 					margin-right: 0px;
-					background-color: #ff4e4e;
+					background-color: #a5a58d;
 					color: white;
 					/* padding: 1px 7px; */
 					font-size: .7em;
@@ -150,6 +150,9 @@
 
 		&.instagram {
 			background-color: #f167f5;
+		}
+		&.tiktok {
+			background-color: #ff0050;
 		}
 
 		&.linkedin {
