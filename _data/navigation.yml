@@ -1,8 +1,8 @@
-- name: Home
+- name: home
   link: /
-- name: About
-  link: /about/
-- name: Recipes
+- name: recipes
   link: /recipes/
-- name: Contact
+- name: get in touch
   link: /contact/
+- name: about serena
+  link: /about/
