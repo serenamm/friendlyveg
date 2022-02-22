@@ -2,7 +2,7 @@
 # Site
 
 title: Friendly Veg
-url: "https://spring-bat.cloudvent.net/"
+url: "https://friendlyveg.com"
 baseurl:
 google_analytics_key: G-642SN665XK
 newsletter_action:
@@ -15,10 +15,10 @@ author:
   name:
   email:
   twitter: # twitter username without the @ symbol
-social:
-  name: Friendly Veg
-  links:
-    - https://github.com/CloudCannon/treat-jekyll-template
+# social:
+#   name: Friendly Veg
+#   links:
+#     - https://github.com/CloudCannon/treat-jekyll-template
 
 # -----
 # Build
