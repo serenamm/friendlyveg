@@ -43,7 +43,13 @@ I can't recall when I first developed my love for beet juice, but it's always a 
 <img src="/images/2022-02-22-carrot-apple-beet-juice/ingredients.jpeg" width="500">
 </p>
 
-It's super important to cut the beets and carrots up into small pieces. These vegetables are **hard**. If they're too large, your blender will struggle and you might have to pour everything out, fish the carrots and beets out of the half-blended juicy mess, and chop them up a second time (*speaking from experience!*). So my suggestion is to take the few extra minutes required to make sure your veggies are cut small!
+It's super important to cut the beets and carrots up into small pieces. These vegetables are **hard**.
+
+<p align="center">
+<img src="/images/2022-02-22-carrot-apple-beet-juice/food_in_blender.jpeg" width="500">
+</p>
+
+If they're too large, your blender will struggle and you might have to pour everything out, fish the carrots and beets out of the half-blended juicy mess, and chop them up a second time (*speaking from experience!*). So my suggestion is to take the few extra minutes required to make sure your veggies are cut small!
 
 <p align="center">
 <img src="/images/2022-02-22-carrot-apple-beet-juice/strain.jpeg" width="500">
