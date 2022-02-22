@@ -19,13 +19,13 @@ recipe:
     2. Cut the ingredients into chunks. 
     3. Add all the ingredients to a blender or juicer. Only add water if you're using a blender.
     4. Blend or juice! Add more water if the blender struggles or gets stuck.
-    5. If using a juicer: congrats, you're done! Onto clean up. If you're using a blender: strain the juice into a large bowl with a seive.
+    5. If using a juicer: congrats, you're done! Onto clean up. If you're using a blender: strain the juice into a large bowl with a sieve.
     6. Enjoy!
 ---
 
 This **immunity boosting** carrot apple beet juice is *so easy* to make - it only takes **15 minutes** to throw everything together! Plus, the addition of ginger adds a nice kick and immune boost.
 
-To add **even more immune boosting properties** to this juice, try adding in half a teaspoon of tumeric and black pepper!
+To add **even more immune boosting properties** to this juice, try adding in half a teaspoon of turmeric and black pepper!
 
 And really, why buy carrot apple beet juice when you can make it at home for **half the price**? 
 

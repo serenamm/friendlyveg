@@ -81,10 +81,3 @@ _options:
   author_image:
     width: 400
     height: 400
-
-
-# --------
-# Search with Algolia
-group :jekyll_plugins do
-  gem 'jekyll-algolia', '~> 1.0'
-end
