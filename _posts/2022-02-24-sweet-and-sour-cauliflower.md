@@ -2,7 +2,7 @@
 date: 2022-02-22
 title: Sweet and Sour Cauliflower (Super Versatile!)
 categories:
-  - Juice
+  - Asian
 featured_image: /images/2022-02-24-sweet-and-sour-cauliflower/bowl.jpeg
 recipe:
   servings: 3 servings as a main meal, or 4 servings as a side or snack
