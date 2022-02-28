@@ -57,6 +57,11 @@ defaults:
     values:
       layout: "default"
       push_sidebar_down: true
+  -
+    scope:
+      path: "js/lunr.min.js"
+    values:
+      layout: search
 
 plugins:
   - jekyll-sitemap
@@ -82,3 +87,5 @@ _options:
   author_image:
     width: 400
     height: 400
+
+  
