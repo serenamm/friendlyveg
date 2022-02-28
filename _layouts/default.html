@@ -36,22 +36,24 @@
 
 	</head>
 
-	<form action="/search.html" method="get">
-		<label for="search-box">Search</label>
-		<input type="text" id="search-box" name="query">
-		<input type="submit" value="search">
-	  </form>
-
-	<body>
+	  <body>
 		{% include navigation.html %}
 		<header>
+			<form action="/search.html" method="get">
+				<label for="search-box">Search</label>
+				<input type="text" id="search-box" name="query">
+				<input type="submit" value="search">
+			</form>
 			<a href="{{site.baseurl }}/">
 				<img src="{{ site.baseurl }}{{ site.data.company_details.logo_image }}" width="180" alt="logo">
 			</a>
-			<div>
+			<div> 
 				<a class="editor-link btn" href="cloudcannon:collections/_data/company_details.yml" class="btn"><strong>&#9998;</strong> Edit Logo</a></div>
+
 		</header>
 			
+
+
 		<div class="container main-content">
 			<section class="content">{{ content }}</section>
 			{% include sidebar.html %}
