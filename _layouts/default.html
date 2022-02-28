@@ -39,11 +39,13 @@
 	  <body>
 		{% include navigation.html %}
 		<header>
-			<form action="/search.html" method="get">
-				<label for="search-box">Search</label>
+			<center>
+			<form action="/search.html" method="get" style="width: 300px;">
+				<label for="search-box">Looking for something?</label>
 				<input type="text" id="search-box" name="query">
 				<input type="submit" value="search">
 			</form>
+			</center>
 			<a href="{{site.baseurl }}/">
 				<img src="{{ site.baseurl }}{{ site.data.company_details.logo_image }}" width="180" alt="logo">
 			</a>
