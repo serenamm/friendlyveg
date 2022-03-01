@@ -3,8 +3,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		{% seo %}
 		{% feed_meta %}
 
@@ -38,12 +37,18 @@
 
 	  <body>
 		{% include navigation.html %}
+
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<i class="fa fa-home"></i>
+		
 		<header>
 			<center>
 			<form action="/search.html" method="get" style="width: 300px;">
 				<label for="search-box">Looking for something?</label>
 				<input type="text" id="search-box" name="query">
-				<input type="submit" value="search">
+				<button type="submit" class="btn btn-success">
+					<i class="fa fa-search"></i>
+				</button>
 			</form>
 			</center>
 			<a href="{{site.baseurl }}/">
