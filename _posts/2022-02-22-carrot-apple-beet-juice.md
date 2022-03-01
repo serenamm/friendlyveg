@@ -7,7 +7,7 @@ featured_image: /images/2022-02-22-carrot-apple-beet-juice/top_view_colourful.jp
 recipe:
   servings: 500 mL (2 cups)
   prep: 15 minutes
-  cook: 0 minutes
+  cook: 0
   ingredients_markdown: |-
     * 2 medium beets
     * 3 medium carrots

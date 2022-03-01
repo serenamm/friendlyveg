@@ -7,7 +7,7 @@ featured_image: /images/2022-02-26-beet-ginger-blueberry-smoothie/final.jpeg
 recipe:
   servings: one large smoothie
   prep: 10 minutes
-  cook: 0 minutes
+  cook: 0
   ingredients_markdown: |-
     * 1/4 of a beet
     * 2 bananas (I prefer frozen)
