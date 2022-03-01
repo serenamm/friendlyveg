@@ -1,6 +1,6 @@
 ---
 date: 2022-02-22
-title: Immunity Boosting Carrot Apple Beet Juice
+title: Immunity Boosting Carrot Apple Beet Juice (save money at home!)
 categories:
   - Drinks
 featured_image: /images/2022-02-22-carrot-apple-beet-juice/top_view_colourful.jpeg
@@ -10,7 +10,7 @@ recipe:
   cook: 0 minutes
   ingredients_markdown: |-
     * 2 medium beets
-    * 4 large carrots
+    * 3 medium carrots
     * 2 medium apples
     * 1 thumb of ginger (or more if you love ginger, like me!)
     * 2 cups of water (if using a blender - not needed if you're using a juicer)
@@ -27,11 +27,9 @@ This **immunity boosting** carrot apple beet juice is *so easy* to make - it onl
 
 To add **even more immune boosting properties** to this juice, try adding in half a teaspoon of turmeric and black pepper!
 
-And really, why buy carrot apple beet juice when you can make it at home for **half the price**? 
+And really, why buy carrot apple beet juice when you can make it at home for **less than half the price**? 
 
-Note that this recipe requires either a blender or a juicer :)
-
-This [Hamilton Beach blender](https://amzn.to/3LQHLsV) is a good first blender if you're looking for one (affiliate link!).
+Note that this recipe requires either a blender or a juicer :) This [Hamilton Beach blender](https://amzn.to/3LQHLsV) is a good first blender if you're looking for one (affiliate link!). I often use a [Blendtec](https://www.amazon.com/Blendtec-Original-Professional-Grade-Pre-programmed-10-speeds/dp/B000GIGZXM/?&_encoding=UTF8&tag=friendlyvegbl-20&linkCode=ur2&linkId=6baf907d879fe4c3a4b5aaa17da728c0&camp=1789&creative=9325).
 
 <p align="center">
 <img src="/images/2022-02-22-carrot-apple-beet-juice/sideview.jpeg" width="500">
