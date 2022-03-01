@@ -1,16 +1,18 @@
 - name: home
   link: /
-- name: about serena
-  link: /about/
 - name: recipes
   link: /recipes/
-- name: vegan product guide
-  link: /products/
-- name: restaurant guide
-  link: /restaurants/
-- name: grocery tips
-  link: /groceries/
-- name: vegan tips
-  link: /govegan/
-- name: get in touch
-  link: /contact/
+- name: blog
+  link: /blog/
+- name: about
+  link: /about/
+# - name: vegan product guide
+#   link: /products/
+# - name: restaurant guide
+#   link: /restaurants/
+# - name: grocery tips
+#   link: /groceries/
+# - name: vegan tips
+#   link: /govegan/
+# - name: get in touch
+#   link: /contact/
