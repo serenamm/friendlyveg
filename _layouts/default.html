@@ -42,7 +42,18 @@
 		<i class="fa fa-home"></i>
 		
 		<header>
-			<center>
+		<center>
+			<label for="search-box">Looking for something?</label>
+			<form action="/search.html" method="get" style="width: 300px;">
+				<div style="display: flex">
+				<input type="text" id="search-box" name="query">
+				<button type="submit" class="btn btn-success" style="float:right">
+					<i class="fa fa-search"></i>
+				</button>
+				</div>
+			</form>
+		</center>
+			<!-- <center>
 			<form action="/search.html" method="get" style="width: 300px;">
 				<label for="search-box">Looking for something?</label>
 				<input type="text" id="search-box" name="query">
@@ -52,7 +63,7 @@
 
 
 			</form>
-			</center>
+			</center> -->
 
 
 			<!-- <a href="{{site.baseurl }}/">
