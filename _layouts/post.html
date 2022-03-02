@@ -11,10 +11,15 @@ layout: default
 		{{ content }}
 	</div>
 
+	<!-- Only display recipe stuff if it's a recipe, otherwise it's a blog post -->
+	{% if page.recipe.directions_markdown %}
 	<ul id="recipe" class="recipe-overview">
 		<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
 		<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
+		<!-- Don't display cook time if there's no cooking needed -->
+		{% if page.recipe.cook != 0 %}
 		<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span></li>
+		{% endif %}
 	</ul>
 
 	<div class="recipe-contents">
@@ -28,6 +33,7 @@ layout: default
 			{{ page.recipe.directions_markdown | markdownify }}
 		</div>
 	</div>
+	{% endif %}
 
 	<div class="sharing">
 		{% assign share_url = page.url | absolute_url | cgi_escape %}
