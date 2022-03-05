@@ -1,6 +1,6 @@
 ---
 date: 2022-02-21
-title: Blueberry Ginger Beet Smoothie (boost your immune system!)
+title: Simple Blueberry Ginger Beet Smoothie (boost your immune system!)
 categories:
   - Drinks
 featured_image: /images/2022-02-26-beet-ginger-blueberry-smoothie/final.jpeg
