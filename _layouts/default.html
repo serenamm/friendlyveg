@@ -40,8 +40,10 @@
 
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 		<i class="fa fa-home"></i>
-		
 		<header>
+			<a href="{{site.baseurl }}/">
+				<img src="{{ site.baseurl }}{{ site.data.company_details.logo_image }}" width="360" alt="logo">
+			</a>	
 		<center>
 			<label for="search-box">Looking for something?</label>
 			<form action="/search.html" method="get" style="width: 300px;">
@@ -65,10 +67,6 @@
 			</form>
 			</center> -->
 
-
-			<!-- <a href="{{site.baseurl }}/">
-				<img src="{{ site.baseurl }}{{ site.data.company_details.logo_image }}" width="180" alt="logo">
-			</a> -->
 		   
 			<div> 
 				<a class="editor-link btn" href="cloudcannon:collections/_data/company_details.yml" class="btn"><strong>&#9998;</strong> Edit Logo</a></div>
