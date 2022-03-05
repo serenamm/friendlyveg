@@ -8,16 +8,23 @@ image_view: true
 
 {% if page.image_view %}
 	{% for category in site.categories %}
-		<h2>{{ category[0] }}</h2>
-		<div class="recipes">
-			<!-- Only output blog posts -->
+		<!-- <h2>{{ category[0] }}</h2>
+		<div class="recipes"> -->
+			<!-- Only output blog posts; display category if not seen yet -->
+			{% assign shown_category = false %}
 			{% for post in category[1] %}
 				{% if post.blog %}
+					{% if shown_category == false %}
+						<h2>{{ category[0] }}</h2>
+						{% assign shown_category = true %}
+					{% endif %}
+				<div class="recipes">
 					<div class="recipe" style="background-image: url('{{ post.featured_image }}')">
 						<a href="{{ site.baseurl }}{{ post.url }}"><span>{{ post.title }}</span></a>
 					</div>
+				</div>
 				{% endif %}
 			{% endfor %}
-		</div>
+		<!-- </div> -->
 	{% endfor %}
 {% endif %}

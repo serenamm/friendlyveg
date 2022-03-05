@@ -51,3 +51,7 @@ Once you have successfully liquified the beet and ginger, go ahead and throw in 
 <p align="center">
 <img src="/images/2022-02-26-beet-ginger-blueberry-smoothie/final.jpeg" width="500">
 </p>
+
+<p align="center">
+<iframe width="636" height="358" src="https://www.youtube.com/embed/YGufFSTd2Oc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
