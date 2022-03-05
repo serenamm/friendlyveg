@@ -1,9 +1,8 @@
 ---
 date: 2022-02-22
-title: Immunity Boosting Carrot Apple Beet Juice (save money at home!)
+title: Healthy Immunity Boosting Carrot Apple Beet Juice (save money at home!)
 categories:
   - Drinks
-blogcategories:
 featured_image: /images/2022-02-22-carrot-apple-beet-juice/top_view_colourful.jpeg
 recipe:
   servings: 500 mL (2 cups)
@@ -52,4 +51,9 @@ If they're too large, your blender will struggle and you might have to pour ever
 
 <p align="center">
 <img src="/images/2022-02-22-carrot-apple-beet-juice/strain.jpeg" width="500">
+</p>
+
+
+<p align="center">
+<iframe width="636" height="358" src="https://www.youtube.com/embed/DFyy6Va-4xA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
