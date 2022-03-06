@@ -4,7 +4,7 @@ title: Best Vegan Donuts in Toronto (Bloomer's Review)
 layout: post
 featured_image: /images/2022-03-01-bloomers/donuts2.jpeg
 categories:
-  - Restaurants
+  - Restaurant Guides - Toronto, Canada
 blog:
   - Yes
 ---
