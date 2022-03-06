@@ -49,3 +49,18 @@ PHOTO
 I love that I can use my **bread machine** for this recipe - it's such a **time saver**! However, if you'd like to knead it yourself, you can knead it for about **ten minutes**. If the dough feels too sticky, feel free to add a few tablespoons of flour.s
 
 PHOTO
+
+In summary, there are **eight simple steps** to this incredible pizza dough:
+
+<ul>
+<li>1. Mix together.</li>
+<li>2. Knead.</li>
+<li>3. Rise.</li>
+<li>4. Optional: Punch and rise again.</li>
+<li>5. Oil a pizza pan / baking sheet, and sprinkle on corn meal.</li>
+<li>6. Roll out the dough.</li>
+<li>7. Add your toppings.</li>
+<li>8. Bake.</li>
+</ul>
+
+And that's it!
