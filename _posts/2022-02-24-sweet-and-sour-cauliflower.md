@@ -46,25 +46,30 @@ Buffalo cauliflower wings have been all the rage lately - so here is my **Asian 
 I love serving this one to friends. I promise they'll love it, and so will you!
 
 <p align="center">
-<img src="/images/2022-02-24-sweet-and-sour-cauliflower/saucey.jpeg" width="500">
+<img src="/images/2022-02-24-sweet-and-sour-cauliflower/saucey.jpeg"
+alt="A spoon of sweet and sour sauce being poured over the cauliflower wings, on top of rice."
+width="500">
 </p>
 
 I loved sweet and sour pork as a kid - of course it's not something I eat anymore now that I'm vegan. But these sweet and sour cauliflower wings remind me somewhat of my childhood favourite, and give me both that **sweet and sour** and **meaty taste** that I often crave. Sweet and sour sauce isn't just for pork anymore! 
 
 <p align="center">
-<img src="/images/2022-02-24-sweet-and-sour-cauliflower/sauce_ingredients.jpeg" width="500">
+<img src="/images/2022-02-24-sweet-and-sour-cauliflower/sauce_ingredients.jpeg" width="500"
+alt="The ingredients. Sugar, ketchup, lemon juice, corn starch.">
 </p>
 
 The secret to making amazing sweet and sour sauce is to **trust the process**. Some people are thrown off by the use of ketchup or the amount of sugar in the recipe. I promise you, this is the real deal!
 
 <p align="center">
-<img src="/images/2022-02-24-sweet-and-sour-cauliflower/ready_to_dip.jpeg" width="500">
+<img src="/images/2022-02-24-sweet-and-sour-cauliflower/ready_to_dip.jpeg" width="500"
+alt="The sweet and sour sauce, with the cauliflower wings about to be dipped.">
 </p>
 
 You can play around with the amount of water used in the sauce, as well as the amount of corn starch. And make sure to **always use hot water** to dissolve all the ingredients! If you find that you've added too much water, you could try adding more corn starch, or boiling the sauce for about 5 to 10 minutes to cook it down.
 
 <p align="center">
-<img src="/images/2022-02-24-sweet-and-sour-cauliflower/ready_for_second_bake.jpeg" width="500">
+<img src="/images/2022-02-24-sweet-and-sour-cauliflower/ready_for_second_bake.jpeg" width="500"
+alt="The cauliflower wings, dipped in sauce, and on a baking sheet.">
 </p>
 
 If you don't like ketchup, you can feel free to use 1/4 cup of tomato paste with 1 tbsp vinegar as a substitute.
@@ -72,5 +77,6 @@ If you don't like ketchup, you can feel free to use 1/4 cup of tomato paste with
 You can use any spices you like. I chose to use Chinese five spice, but you could easily use cumin instead. Feel free to play around with it!
 
 <p align="center">
-<img src="/images/2022-02-24-sweet-and-sour-cauliflower/plated.jpeg" width="500">
+<img src="/images/2022-02-24-sweet-and-sour-cauliflower/plated.jpeg" width="500"
+alt="The final cauliflower wings, plated.">
 </p>

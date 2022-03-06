@@ -13,13 +13,15 @@ blog:
 If you're looking for an **amazing donut** in Toronto, then <a href='https://www.bloomersto.com/'>Bloomer's</a> is the place to go! Plus, all their donuts are **100% vegan**. They're so good that vegans and non-vegans alike will love them (as proven by many taste tests I've held with friends).
 
 <p align="center">
-<img src="/images/2022-03-01-bloomers/bloomers-black-logo.png" width="300">
+<img src="/images/2022-03-01-bloomers/bloomers-black-logo.png" width="300"
+alt="An assortment of 6 vegan donuts.">
 </p>
 
 I first came across Bloomer's when I moved to Toronto in 2018. My roommate at the time knew all the vegan hot spots to check out, and Bloomer's was at the top of his list. I was (and am) very lucky to live a five minute walk away from the Bloor Street West location. I often find myself stopping by to grab a donut while out on a walk with my foster dogs!
 
 <p align="center">
-<img src="/images/2022-03-01-bloomers/donuts.jpeg" width="500">
+<img src="/images/2022-03-01-bloomers/donuts.jpeg" width="500"
+alt="The Bloomer's logo.">
 </p>
 
 
