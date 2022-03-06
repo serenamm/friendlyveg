@@ -1,5 +1,5 @@
 ---
-date: 2022-03-09
+date: 2022-03-06
 title: Making Vegan Donuts As an ABSOLUTE Beginner (Tasty Recipe Review)
 layout: post
 featured_image: /images/2022-03-09-donuts-tasty/final.jpeg
@@ -32,12 +32,19 @@ I was surprised to learn how easy it is to make donuts at home! This recipe requ
 alt="The dough, formed into a donut.">
 </p>
 
-I also had to **add a bit more liquid** than the recipe calls for, as the dough was too dry to form into a donut shape. In the future I'd like to see how I can make these come out smoother - they definitely tasted good, but were a bit uneven on the outside as you can see from the pictures. 
-
+I also had to **add a bit more liquid** than the recipe calls for, as the dough was too dry to form into a donut shape.
 
 <p align="center">
 <img src="/images/2022-03-09-donuts-tasty/4.jpeg" width="500"
 alt="6 donuts being fried in oil. Some are golden brown, and some are white as they were just dropped into the pan.">
 </p>
+
+In the future I'd like to see how I can make these come out smoother - they definitely tasted good, but were a bit uneven on the outside as you can see from the pictures. 
+
+<p align="center">
+<img src="/images/2022-03-09-donuts-tasty/dipping_donut.png" width="500"
+alt="Dipping donut into sugar.">
+</p>
+
 
 Overall, these are great donuts for a beginner like myself!
