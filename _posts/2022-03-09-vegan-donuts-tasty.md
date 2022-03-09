@@ -1,6 +1,6 @@
 ---
 date: 2022-03-06
-title: Making Vegan Donuts As an ABSOLUTE Beginner (Tasty Recipe Review)
+title: Easy Fool Proof Vegan Donuts for Beginners (Tasty Recipe Review)
 layout: post
 featured_image: /images/2022-03-09-donuts-tasty/final.jpeg
 categories:
@@ -48,3 +48,5 @@ alt="Dipping donut into sugar.">
 
 
 Overall, these are great donuts for a beginner like myself!
+
+<!-- TO DO add YT video -->

@@ -23,6 +23,5 @@ I first came across Odd Burger when they were known as **Globally Local**. I was
 alt="The Odd Burger logo.">
 </p>
 
-Founded in 2014, Odd Burger is Canada's **first vegan fast food chain**, and is the first vegan fast food chain to go **public** under the ticker **TSXV:ODD**. Very exciting stuff! They are located in Ontario with plans to expand across Canada and internationally.
+Founded in 2014, Odd Burger is Canada's **first vegan fast food chain**, and is the first vegan fast food chain to go **public** under the ticker **TSXV:ODD**. Very exciting stuff! THey are located in Ontario with plans to expand across Canada and internationally.
 
-<!-- TO DO: Addresses -->
