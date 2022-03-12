@@ -1,6 +1,6 @@
 ---
 date: 2022-03-06
-title: Best Pizza Dough (bread maker friendly!)
+title: Best Ever Bread Maker Pizza Dough (8 simple steps!)
 categories:
   - Bread
 featured_image: /images/2022-02-22-carrot-apple-beet-juice/top_view_colourful.jpeg
@@ -64,3 +64,5 @@ In summary, there are **eight simple steps** to this incredible pizza dough:
 </ul>
 
 And that's it!
+
+<!-- TO DO: add YT link -->

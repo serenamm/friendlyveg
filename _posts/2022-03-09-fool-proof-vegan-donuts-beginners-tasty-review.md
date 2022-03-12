@@ -1,6 +1,6 @@
 ---
 date: 2022-03-06
-title: Easy Fool Proof Vegan Donuts for Beginners (Tasty Recipe Review)
+title: Fool Proof Vegan Donuts for Beginners (Tasty Recipe Review)
 layout: post
 featured_image: /images/2022-03-09-donuts-tasty/final.jpeg
 categories:
