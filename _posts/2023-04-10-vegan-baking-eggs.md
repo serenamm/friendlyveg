@@ -11,4 +11,6 @@ blog:
 
 DRAFT: vegan baking with eggs
 
-Add my baking video
+<p align="center">
+<iframe width="636" height="358" src="https://www.youtube.com/embed/rrhvH69vbO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
