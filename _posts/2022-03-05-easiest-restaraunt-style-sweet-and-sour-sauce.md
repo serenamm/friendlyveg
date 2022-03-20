@@ -32,6 +32,8 @@ This one of the sauces I grew up eating, whether it was out at a Chinese restaur
 <iframe width="636" height="358" src="https://www.youtube.com/embed/bBuKJ2N5BqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+# Wait, ketchup!?
+
 The use of ketchup in this recipe might seem strange, but trust me on this!
 
 If the sauce is too watery, try adding more corn starch or letting it boil for longer (or both!). Eventually it'll become the consistency you like.

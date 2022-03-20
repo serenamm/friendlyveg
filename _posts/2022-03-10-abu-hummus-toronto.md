@@ -1,5 +1,5 @@
 ---
-date: 2022-03-01
+date: 2022-03-10
 title: Abu Hummus (Great Vegan Options!)
 layout: post
 featured_image: /images/2022-nn-nn-abu-hummus/spread.jpeg
@@ -41,8 +41,11 @@ alt="Falafel with tahini sauce and mushrooms.">
 
 The hummus was so good - **light, creamy, smooth**, absolutely everything you would want in a hummus. And the falafel was so **green**, it was incredible. And the mushrooms tasted like stewed Chinese mushrooms that I grew up eating! I could go on :)
 
-PHOTO
-
 Overall I would recommend Abu Hummus. It's a great spot, and I look forward to my next visit!
 
-<!-- TO DO Details about the company, ownership, etc. -->
+# About Abu Hummus
+
+
+<p align="center">
+<iframe width="636" height="358" src="https://www.youtube.com/embed/KY5ztpE4GME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>

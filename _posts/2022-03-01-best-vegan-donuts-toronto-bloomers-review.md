@@ -25,6 +25,8 @@ alt="The Bloomer's logo.">
 </p>
 
 
+# About Bloomer's
+
 Bloomer's is a small **family bakery** that has been open since 2014. They have **3 locations** (as of 2022): Queen Street West, Bloor Street West, and Bayview Village. You can also find them at various farmer's markets and festivals across the city. They also deliver via UberEats and Doordash.
 
 Before the pandemic they had delicious cafe food as well - I have fond memories of their **tempeh reuben**. I hope they start serving cafe food again at some point! 

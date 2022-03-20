@@ -1,5 +1,5 @@
 ---
-date: 2022-04-01
+date: 2022-03-10
 title: Vegan Fast Food (Odd Burger Review)
 layout: post
 featured_image: /images/2022-03-10-odd-burger/odd_burger.png
@@ -9,7 +9,7 @@ blog:
   - Yes
 ---
 
-Vegan fast food from <a href='https://oddburger.com/'>Odd Burger</a>! Odd Burger is often referred to colloquially as "Vegan McDonalds", but I'd say it's **better** in quality, and yes, it's **100% vegan**.
+Vegan fast food from <a href='https://oddburger.com/'>Odd Burger</a>! Odd Burger is often referred to colloquially as "Vegan McDonalds", but I'd say it's **better** in quality, and yes, it's **100% vegan**. Check out my video below to learn more and see some of the food!
 
 <p align="center">
 <iframe width="636" height="358" src="https://www.youtube.com/embed/0EU8Aeh79T4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -23,6 +23,6 @@ I first came across Odd Burger when they were known as **Globally Local**. I was
 alt="The Odd Burger logo.">
 </p>
 
-Founded in 2014, Odd Burger is Canada's **first vegan fast food chain**, and is the first vegan fast food chain to go **public** under the ticker **TSXV:ODD**. Very exciting stuff! They are located in Ontario with plans to expand across Canada and internationally.
+# About Odd Burger
 
-<!-- TO DO: Addresses -->
+Founded in 2014, Odd Burger is Canada's **first vegan fast food chain**, and is the first vegan fast food chain to go **public** under the ticker **TSXV:ODD**. Very exciting stuff! They are located in Ontario with plans to expand across Canada and internationally.
