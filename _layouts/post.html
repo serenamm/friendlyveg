@@ -3,10 +3,11 @@ layout: default
 ---
 <article class="post">
 	{% include post-heading.html post=page post_page=true %}
+	<center>
 	<div class="image">
-		<img src="{{ page.featured_image }}" alt="{{ page.title }}">
+		<img src="{{ page.featured_image }}" alt="{{ page.title }}" width="600">
 	</div>
-
+  </center>
 	<div class="recipe-body">
 		{{ content }}
 	</div>

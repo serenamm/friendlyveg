@@ -32,25 +32,25 @@ And really, why buy carrot apple beet juice when you can make it at home for **l
 Note that this recipe requires either a blender or a juicer :) This [Hamilton Beach blender](https://amzn.to/3LQHLsV) is a good first blender if you're looking for one (affiliate link!). I often use a [Blendtec](https://www.amazon.com/Blendtec-Original-Professional-Grade-Pre-programmed-10-speeds/dp/B000GIGZXM/?&_encoding=UTF8&tag=friendlyvegbl-20&linkCode=ur2&linkId=6baf907d879fe4c3a4b5aaa17da728c0&camp=1789&creative=9325).
 
 <p align="center">
-<img src="/images/2022-02-22-carrot-apple-beet-juice/sideview.jpeg" width="500">
+<img src="/images/2022-02-22-carrot-apple-beet-juice/sideview.jpeg" alt="A side view of carrot apple beet juice, with 2 beets in the foreground and a knob of ginger in the background." width="500">
 </p>
 
 I can't recall when I first developed my love for beet juice, but it's always a juice I really enjoy. However, I can rarely bring myself to pay for it when I know I could make it at home myself.
 
 <p align="center">
-<img src="/images/2022-02-22-carrot-apple-beet-juice/ingredients.jpeg" width="500">
+<img src="/images/2022-02-22-carrot-apple-beet-juice/ingredients.jpeg" alt="An aerial view of the ingredients: carrots, beets, apples, and ginger." width="500">
 </p>
 
 It's super important to cut the beets and carrots up into small pieces. These vegetables are **hard**.
 
 <p align="center">
-<img src="/images/2022-02-22-carrot-apple-beet-juice/food_in_blender.jpeg" width="500">
+<img src="/images/2022-02-22-carrot-apple-beet-juice/food_in_blender.jpeg" alt="The ingrdients in a blender." width="500">
 </p>
 
 If they're too large, your blender will struggle and you might have to pour everything out, fish the carrots and beets out of the half-blended juicy mess, and chop them up a second time (*speaking from experience!*). So my suggestion is to take the few extra minutes required to make sure your veggies are cut small!
 
 <p align="center">
-<img src="/images/2022-02-22-carrot-apple-beet-juice/strain.jpeg" width="500">
+<img src="/images/2022-02-22-carrot-apple-beet-juice/strain.jpeg" alt="The juice being strained through a sieve. It's a vibrant burgundy colour." The width="500">
 </p>
 
 

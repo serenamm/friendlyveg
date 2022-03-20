@@ -31,25 +31,29 @@ This blueberry ginger beet smoothie is incredible - it tastes great, and it **bo
 Note that this recipe requires a blender :) This [Hamilton Beach blender](https://amzn.to/3LQHLsV) is a good first blender if you're looking for one (affiliate link!). I often use a [Blendtec](https://www.amazon.com/Blendtec-Original-Professional-Grade-Pre-programmed-10-speeds/dp/B000GIGZXM/?&_encoding=UTF8&tag=friendlyvegbl-20&linkCode=ur2&linkId=6baf907d879fe4c3a4b5aaa17da728c0&camp=1789&creative=9325).
 
 <p align="center">
-<img src="/images/2022-02-26-beet-ginger-blueberry-smoothie/sideview.jpeg" width="500">
+<img src="/images/2022-02-26-beet-ginger-blueberry-smoothie/sideview.jpeg" width="500"
+alt="A side view of the smoothie in a jar, with a straw. There's peanut butter on the side.">
 </p>
 
 I first developed a love of smoothies when I was in high school. My ideal outing with friends involved shopping at the mall, and finishing up our day with a smoothie from Orange Julius. My go to smoothie order was pretty basic: strawberry banana. It wasn't until several years later that I discovered the joys of adding vegetables into your smoothies.
 
 <p align="center">
-<img src="/images/2022-02-26-beet-ginger-blueberry-smoothie/ingredients.jpeg" width="500">
+<img src="/images/2022-02-26-beet-ginger-blueberry-smoothie/ingredients.jpeg" width="500"
+alt="An aerial view of the ingredients.">
 </p>
 
 When adding vegetables into your smoothies, it's **important to blend them up first** before adding any frozen fruit. The goal is to liquify the veggies - otherwise you might find your smoothie tastes grainy, which can be unpleasant. So blend the most fibrous products (the beet and ginger) in with the softest (the liquid and fresh fruit) to ensure a **smoother consistency**.
 
 <p align="center">
-<img src="/images/2022-02-26-beet-ginger-blueberry-smoothie/almond_milk.jpeg" width="500">
+<img src="/images/2022-02-26-beet-ginger-blueberry-smoothie/almond_milk.jpeg" width="500"
+alt="Pouring almond milk into the blender.">
 </p>
 
 Once you have successfully liquified the beet and ginger, go ahead and throw in any frozen fruit you're using. **Pro tip**: use more frozen fruit for a creamier smoothie.
 
 <p align="center">
-<img src="/images/2022-02-26-beet-ginger-blueberry-smoothie/final.jpeg" width="500">
+<img src="/images/2022-02-26-beet-ginger-blueberry-smoothie/final.jpeg" width="500"
+alt="The finished smoothie, with a half cut beet and banana next to it.">
 </p>
 
 <p align="center">
