@@ -1,12 +1,12 @@
 ---
 date: 2022-03-23
-title: Miso Butter Tofu (10 Minutes Only!)
+title: Miso Butter Tofu (15 Minutes Only!)
 categories:
   - Tofu
 featured_image: /images/2022-03-23-miso-butter-tofu/final.jpeg
 recipe:
   servings: 2-3 servings
-  prep: 10 minutes
+  prep: 5 minutes
   cook: 10 minutes
   ingredients_markdown: |-
     * 1/2 package firm tofu
@@ -23,21 +23,21 @@ recipe:
     5. Plate, and enjoy!
 ---
 
-## Buttery, umami and delicious. All in under 10 minutes!
+## Buttery, umami and delicious. All in 15 minutes!
 
 Do you wanna eat more tofu, but you're **not sure how**?  This tofu recipe might be for you.
 
 And it **kind of tastes like (vegan) salmon** :)
 
 <p align="center">
-<img src="/images//2022-03-23-miso-butter-tofu/ing.jpeg" width="500"
+<img src="/images/2022-03-23-miso-butter-tofu/ing.jpeg" width="500"
 alt="The marinade: Miso, vegan margarine, and soya sauce.">
 </p>
 
 This is one of my favourite meals to make **for my mom**, who is at the same time my *biggest fan and my biggest critic*. If she likes it, then I think **you will too** ! 
 
 <p align="center">
-<img src="/images//2022-03-23-miso-butter-tofu/prefry.jpeg" width="500"
+<img src="/images/2022-03-23-miso-butter-tofu/prefry.jpeg" width="500"
 alt="The marinade: Miso, vegan margarine, and soya sauce.">
 </p>
 
@@ -46,7 +46,7 @@ This recipe is **super versatile** - you can use soft tofu, medium firm tofu, fi
 You can even **bake** the tofu if you'd like. In that case, I'd suggest baking it at *400 degrees Fahrenheit for 30 - 45 minutes* to make it nice and crispy.
 
 <p align="center">
-<img src="/images//2022-03-23-miso-butter-tofu/fry.jpeg" width="500"
+<img src="/images/2022-03-23-miso-butter-tofu/fry.jpeg" width="500"
 alt="The marinade: Miso, vegan margarine, and soya sauce.">
 </p>
 
