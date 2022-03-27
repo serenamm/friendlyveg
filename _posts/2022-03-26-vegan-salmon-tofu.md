@@ -1,6 +1,6 @@
 ---
 date: 2022-03-26
-title: Vegan "Salmon" Tofu (Only 15 Minutes!)
+title: Vegan "Salmon" Tofu (5 Ingredients and Only 15 Minutes!)
 categories:
   - Tofu
 featured_image: /images/2022-03-26-soya-mayo-tofu/final.jpeg
@@ -24,11 +24,13 @@ recipe:
     5. Plate, and enjoy!
 ---
 
+Have you ever wondered: *how can I make vegan salmon from tofu*?, *how can I make tofu taste like salmon*?, or *can I make tofu taste like fish*? Yes, you can, if you use the **same seasonings** you would use on your fish.
+
 ## This soya mayo "salmon" is an incredibly easy and satisfying way to prepare tofu!
 
 This reminds me of my **childhood favourite dish**. Coated with **umami** flavour and pan fried to perfection (whatever your definition of "perfect" is :) ) this **vegan "salmon" tofu** is sure a hit in my household!
 
-It only take **15 minutes** to throw this all together. Give it a try! 
+It only take **15 minutes** to throw this all together with only **5** (yes, five!) ingredients. Give it a try! 
 
 <p align="center">
 <img src="/images/2022-03-26-soya-mayo-tofu/ingredients.jpeg" width="500"

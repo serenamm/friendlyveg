@@ -1,6 +1,6 @@
 ---
 date: 2022-03-23
-title: Miso Butter Tofu (15 Minutes Only!)
+title: Miso Butter Tofu (5 Ingredients and 15 Minutes Only!)
 categories:
   - Tofu
 featured_image: /images/2022-03-23-miso-butter-tofu/final.jpeg
@@ -23,9 +23,9 @@ recipe:
     5. Plate, and enjoy!
 ---
 
-## Buttery, umami and delicious. All in 15 minutes!
+## Buttery, umami and delicious. All in 15 minutes with only 5 (FIVE!) ingredients!
 
-Do you wanna eat more tofu, but you're **not sure how**?  This tofu recipe might be for you.
+Do you wanna eat more tofu, but you're **not sure how**? Are you wondering *how can I make tofu taste good*, or are you looking for *easy ways to prepare tofu*? If so, this tofu recipe is for you!
 
 And it **kind of tastes like (vegan) salmon** :)
 
