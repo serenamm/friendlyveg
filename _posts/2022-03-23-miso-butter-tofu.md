@@ -1,6 +1,6 @@
 ---
 date: 2022-03-23
-title: Miso Butter Tfu (5 Ingredients and 15 Minutes Only!)
+title: Miso Butter Tofu (5 Ingredients and 15 Minutes Only!)
 categories:
   - Tofu
 featured_image: /images/2022-03-23-miso-butter-tofu/final.jpeg
