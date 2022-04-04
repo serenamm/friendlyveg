@@ -1,8 +1,8 @@
 ---
-date: 2022-04-04
-title: Vegan Nanaimo Crunch Bars (Easier than you think!)
+date: 2022-04-03
+title: Vegan Nanaimo Crunch Bars (Easier than You Think!)
 categories:
-  - Tofu
+  - Vegan Baking
 featured_image: /images/2022-04-04-nanaimo-bars/IMG_5151.jpeg
 recipe:
   servings: 16 servings

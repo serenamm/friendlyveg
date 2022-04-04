@@ -1,9 +1,9 @@
 ---
-date: 2023-04-01
+date: 2022-04-04
 title: Vegan Cream Egg Nanaimo Bars (Crunchy! Super Easy to Make!)
 categories:
-  - Tofu
-featured_image: /images/2022-03-26-soya-mayo-tofu/final.jpeg
+  - Vegan Baking
+featured_image: /images/2022-04-05-cream-egg-nanaimo-bars/IMG_5374.jpeg
 recipe:
   servings: 16 servings
   prep: 30 minutes
@@ -60,24 +60,14 @@ recipe:
 
 **Vegan cream egg and Nanaimo bar all in one** - you read that right!
 
+### Wanna know more about Nanaimo bars?
+
+If so, check out my recipe for my [Nanaimo Crunch Bars]({{ '/vegan%20baking/2022/04/03/vegan-soda-cracker-nanaimo-bars/' | relative_url }}) where I share my take on the classic no-bake dessert (with detailed instructions!) and where I share the history of it as well!
+
 <p align="center">
-<img src="/images/2022-03-26-soya-mayo-tofu/ingredients.jpeg" width="500"
-alt="The marinade: Soya sauce, vegan mayo, and nori.">
+<img src="/images/2022-04-04-nanaimo-bars/IMG_5151.jpeg" width="500"
+alt="Nanaimo Crunch Bars.">
 </p>
-
-### So, what is a Nanaimo bar?
-
-As mentioned in my Nanaimo bar post (TO DO: LINK), the Nanaimo bar is a no-bake dessert that is named after the city of Nanaimo in British Columbia, Canada. Growing up in Vancouver, I thought everyone knew about Nanaimo bars. It wasn't until I moved out of the province that I learned that these delicious chocolate-y bars are unique to this part of the country!
-
-Nanaimo bars typically consist of 3 layers: a wafer, nut, and coconut crumb base; custard icing in the middle; and a layer of chocolate ganache on top.
-
-In this case, we'll use a vegan cream egg filling for the  middle layer!
-
-### What's with the saltine crackers?
-
-The saltine crackers are what gives this bar the **crunch**. I use saltine crackers in my Crunchy Nanaimo Bars too :) (LINK)
-
-<photo></photo>
 
 Nanaimo bars seem complicated to make, but they are EASY! There are really only **4 simple steps** to making delicious Nanaimo bars:
 <ul>
@@ -89,32 +79,18 @@ Nanaimo bars seem complicated to make, but they are EASY! There are really only 
 
 No special technique or special kitchen tools required!
 
-I go into more detail about substitutions and all that in my Nanaimo bar post.
-
-<photo></photo>
+I go into more detail about substitutions and all that in my [Nanaimo Crunch Bar post]({{ '/vegan%20baking/2022/04/03/vegan-soda-cracker-nanaimo-bars/' | relative_url }}) - definitely check if out if you're looking for detailed **step by step instructions**! 
 
 <p align="center">
-<img src="/images/2022-03-26-soya-mayo-tofu/sauce.jpeg" width="500"
-alt="The marinade: Soya sauce, vegan mayonnaise, and nori, all mixed together">
+<img src="/images/2022-04-05-cream-egg-nanaimo-bars/IMG_5339.jpeg" width="500">
 </p>
 
-For the cream egg layer...
-<p align="center">
-<img src="/images/2022-03-26-soya-mayo-tofu/mixed.jpeg" width="500"
-alt="The marinade added to the tofu: Soya sauce, vegan mayonnaise, and nori, all mixed together">
-</p>
+## What's with the cream egg filling?
 
-For the top chocolate layer, it's **ridiculously easy**: microwave together *chocolate chips and vegan butter* until smooth and silky. That's it!
+The only thing that makes this recipe different from my [Nanaimo Crunch Bars]({{ '/vegan%20baking/2022/04/03/vegan-soda-cracker-nanaimo-bars/' | relative_url }}) is that I use a vegan cream egg filling.
 
-Spread the chocolatey mixture on top of the chilled bars, and let the bars cool for another 15 minutes. And that's it! You've made Nanaimo bars!
-
-<photo></photo>
-
-For substitutes you could..
+The cream egg is **incredibly easy**. All you do is blend up the corn syrup, vegan butter, vanilla, salt icing sugar, and creamer. That's it! The base and top layer, as well as the assembly, is all the same as the original recipe.
 
 <p align="center">
-<img src="/images/2022-03-26-soya-mayo-tofu/prefry.jpeg" width="500"
-alt="The vegan salmon on a pan, ready to fry.">
+<img src="/images/2022-04-05-cream-egg-nanaimo-bars/IMG_5376.jpeg" width="500">
 </p>
-
-This is a super versatile recipe because...
