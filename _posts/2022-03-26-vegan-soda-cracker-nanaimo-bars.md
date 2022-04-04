@@ -1,9 +1,9 @@
 ---
-date: 2022-04-01
+date: 2022-04-04
 title: Vegan Nanaimo Crunch Bars (Easier than you think!)
 categories:
   - Tofu
-featured_image: /images/2022-03-26-soya-mayo-tofu/final.jpeg
+featured_image: /images/2022-04-04-nanaimo-bars/IMG_5151.jpeg
 recipe:
   servings: 16 servings
   prep: 30 minutes
@@ -100,10 +100,7 @@ Press down into an 8x8 pan or a loaf pan, depending on how thick you like your b
 
 Put in the fridge or freezer to chill. I like to use the freezer since it's faster!
 
-<p align="center">
-<img src="/images/2022-03-26-soya-mayo-tofu/sauce.jpeg" width="500"
-alt="The marinade: Soya sauce, vegan mayonnaise, and nori, all mixed together">
-</p>
+
 
 For the cream layer, it's very simple: mix together all the ingredients, except the icing sugar, and until **light and fluffy**, then add in the icing sugar and cream until smooth.
 
@@ -112,15 +109,25 @@ If you have a hand mixer, the creaming process will take *just a few minutes*. A
 Once the cream layer is ready, you can spread it onto the base layer and put the bars back in the freezer to cool.
 
 <p align="center">
-<img src="/images/2022-03-26-soya-mayo-tofu/mixed.jpeg" width="500"
-alt="The marinade added to the tofu: Soya sauce, vegan mayonnaise, and nori, all mixed together">
+<img src="/images/2022-04-04-nanaimo-bars/IMG_5105.jpeg" width="500"
+alt="Spreading the cream layer.">
 </p>
+
 
 For the top chocolate layer, it's **ridiculously easy**: microwave together *chocolate chips and vegan butter* until smooth and silky. That's it!
 
+<p align="center">
+<img src="/images/2022-04-04-nanaimo-bars/IMG_5113.jpeg" width="500"
+alt="Melting the chocolate.">
+</p>
+
 Spread the chocolatey mixture on top of the chilled bars, and let the bars cool for another 15 minutes. And that's it! You've made Nanaimo bars!
 
-<photo></photo>
+
+<p align="center">
+<img src="/images/2022-04-04-nanaimo-bars/IMG_5123.jpeg" width="500"
+alt="Spreading the chocolate layer on the cream base.">
+</p>
 
 ## Wondering about substitutions?
 
@@ -134,9 +141,11 @@ The following substitutions should work well:
 </ul>
 
 <p align="center">
-<img src="/images/2022-03-26-soya-mayo-tofu/prefry.jpeg" width="500"
-alt="The vegan salmon on a pan, ready to fry.">
+<img src="/images/2022-04-04-nanaimo-bars/IMG_5130.jpeg" width="500"
+alt="The Nanaimo bars, in the pan.">
 </p>
+
+
 
 This recipe is **super versatile**. Using this recipe as a base, you could make the following variations:
 
@@ -145,3 +154,8 @@ This recipe is **super versatile**. Using this recipe as a base, you could make 
 <li>Cream egg Nanaimo bars: use a vegan cream egg filling for the middle layer.</li>
 <li>Bourbon Nanaimo bars: add a splash of Bourbon to the middle layer.</li>
 </ul>
+
+<p align="center">
+<img src="/images/2022-04-04-nanaimo-bars/IMG_5151.jpeg" width="500"
+alt="The Nanaimo bars, plated.">
+</p>
