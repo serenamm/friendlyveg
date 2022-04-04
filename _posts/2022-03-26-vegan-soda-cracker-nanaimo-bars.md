@@ -60,8 +60,8 @@ recipe:
 Chocolate, cream, and coconut, with a crunch. What's not to love about this dessert?
 
 <p align="center">
-<img src="/images/2022-03-26-soya-mayo-tofu/ingredients.jpeg" width="500"
-alt="The marinade: Soya sauce, vegan mayo, and nori.">
+<img src="/images/2022-04-04-nanaimo-bars/IMG_5130.jpeg" width="500"
+alt="The Nanaimo bars, in the pan.">
 </p>
 
 ### So, what is a Nanaimo bar?
@@ -72,11 +72,10 @@ Nanaimo bars typically consist of 3 layers: a wafer, nut, and coconut crumb base
 
 ### What's with the saltine crackers?
 
-I was family the other month. My parents LOVE Nanaimo bars, so I wanted to make some for them.
+I was visiting family the other month. My parents LOVE Nanaimo bars, so I wanted to make some for them.
 
 I realized I didn't have any graham crackers, so I used *saltine crackers as a substitute.*. The result was a delicious *chocolatey, creamy bar* that was **sweet, salty, and crunchy**. I don't know why this hasn't been done before!
 
-<photo></photo>
 
 Nanaimo bars seem complicated to make, but they are EASY! There are really only **4 simple steps** to making delicious Nanaimo bars:
 <ul>
@@ -88,23 +87,48 @@ Nanaimo bars seem complicated to make, but they are EASY! There are really only 
 
 No special technique or special kitchen tools required!
 
-<photo></photo>
+<p align="center">
+<img src="/images/2022-04-04-nanaimo-bars/top.png" width="500"
+alt="The base: chocolate and sugar.">
+</p>
 
 For the base layer, you could use a double boiler if you like. That's what I recommend. If you don't have a double boiler, melting the ingredients in a *regular pot over the stove is fine!* If you go the regular pot route, make sure to keep an eye on the mixture as you heat it, so it doesn't burn! 
 
 If you're using a double boiler, feel free to *dump the ingredients in and walk away*. Just don't walk too far away because it'll take only about 2-3 minutes for all the ingredients to melt!
 
+<p align="center">
+<img src="/images/2022-04-04-nanaimo-bars/saltine.png" width="500"
+alt="The saltine cracker mix.">
+</p>
+
+
 Once the butter mixture has melted, you can add in the oil and flax and stir well. Then add the saltine crackers and coconut shreds.
+
+
+<p align="center">
+<img src="/images/2022-04-04-nanaimo-bars/IMG_5072.jpeg" width="500"
+alt="The base.">
+</p>
 
 Press down into an 8x8 pan or a loaf pan, depending on how thick you like your bars. Using an 8x8 pan will yield relatively thinner bars.
 
 Put in the fridge or freezer to chill. I like to use the freezer since it's faster!
 
 
+<p align="center">
+<img src="/images/2022-04-04-nanaimo-bars/IMG_5085.jpeg" width="500"
+alt="The base.">
+</p>
+
 
 For the cream layer, it's very simple: mix together all the ingredients, except the icing sugar, and until **light and fluffy**, then add in the icing sugar and cream until smooth.
 
 If you have a hand mixer, the creaming process will take *just a few minutes*. A bit more patience and hard work will be required if creaming by hand!
+
+<p align="center">
+<img src="/images/2022-04-04-nanaimo-bars/IMG_5089.jpeg" width="500"
+alt="The base.">
+</p>
 
 Once the cream layer is ready, you can spread it onto the base layer and put the bars back in the freezer to cool.
 
@@ -140,9 +164,11 @@ The following substitutions should work well:
 <li>Carob powder instead of cacao powder.</li>
 </ul>
 
+
+
 <p align="center">
-<img src="/images/2022-04-04-nanaimo-bars/IMG_5130.jpeg" width="500"
-alt="The Nanaimo bars, in the pan.">
+<img src="/images/2022-04-04-nanaimo-bars/IMG_5151.jpeg" width="500"
+alt="The Nanaimo bars, plated.">
 </p>
 
 
@@ -155,7 +181,7 @@ This recipe is **super versatile**. Using this recipe as a base, you could make 
 <li>Bourbon Nanaimo bars: add a splash of Bourbon to the middle layer.</li>
 </ul>
 
+
 <p align="center">
-<img src="/images/2022-04-04-nanaimo-bars/IMG_5151.jpeg" width="500"
-alt="The Nanaimo bars, plated.">
+<iframe width="636" height="358" src="https://www.youtube.com/embed/DB5DWyNUMOI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
