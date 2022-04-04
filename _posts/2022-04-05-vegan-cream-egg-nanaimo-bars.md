@@ -1,5 +1,5 @@
 ---
-date: 2022-04-04
+date: 2022-04-05
 title: Vegan Cream Egg Nanaimo Bars (Crunchy! Super Easy to Make!)
 categories:
   - Vegan Baking
@@ -54,9 +54,10 @@ recipe:
     3. Cut into the bars, and enjoy!
 ---
 
-## These cream egg Nanaimo bars are a fun Easter twist on the classic no-bakke dessert.
 
 *Oh my gosh, I can't stop eating these"- my Mom*.
+
+## These cream egg Nanaimo bars are a fun Easter twist on the classic no-bake dessert.
 
 **Vegan cream egg and Nanaimo bar all in one** - you read that right!
 
