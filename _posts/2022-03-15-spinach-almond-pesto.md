@@ -1,5 +1,5 @@
 ---
-date: 2022-04-06
+date: 2023-04-06
 title: Versatile Vegan Pumpkin Loaf (one bowl!)
 categories:
   - Bread
