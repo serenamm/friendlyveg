@@ -26,7 +26,7 @@ recipe:
 
 ## Even vegans can enjoy a nice cream egg!
 
-Cream eggs just scream **it's Easter time!**. 
+Cream eggs just scream **it's Easter time!**
 
 Although I loved cream eggs as a kid, I haven't had one in years. Cadbury Cream Eggs, for example, contain dairy, so I don't eat them anymore since I'm vegan.
 
