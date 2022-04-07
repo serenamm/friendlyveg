@@ -1,5 +1,5 @@
 ---
-date: 2022-04-05
+date: 2022-04-07
 title: Vegan Cream Egg Nanaimo Bars (Crunchy! Super Easy to Make!)
 categories:
   - Vegan Baking
