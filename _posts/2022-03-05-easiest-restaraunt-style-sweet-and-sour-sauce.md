@@ -2,7 +2,7 @@
 date: 2022-03-05
 title: Easiest Restaurant Style Sweet and Sour Sauce (you won't believe it!)
 categories:
-  - Asian
+  - Chinese
 featured_image: /images/2022-03-05-sweet-and-sour-sauce/sweet-and-sour.png
 recipe:
   servings: 500 mL (2 cups)

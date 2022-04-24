@@ -2,7 +2,7 @@
 date: 2022-02-22
 title: Crowd Pleasing Sweet and Sour Cauliflower (your friends will love it!)
 categories:
-  - Asian
+  - Chinese
 featured_image: /images/2022-02-24-sweet-and-sour-cauliflower/bowl.jpeg
 recipe:
   servings: 3 servings as a main meal, or 4 servings as a side or snack
@@ -41,7 +41,7 @@ recipe:
 
 This one is a **crowd pleaser**! 
 
-Buffalo cauliflower wings have been all the rage lately - so here is my **Asian take** on this classic vegan side dish.
+Buffalo cauliflower wings have been all the rage lately - so here is my **Chinese take** on this classic vegan side dish.
 
 I love serving this one to friends. I promise they'll love it, and so will you!
 
