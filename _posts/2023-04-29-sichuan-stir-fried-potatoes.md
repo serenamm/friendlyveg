@@ -34,6 +34,10 @@ recipe:
 
 I first had a dish that resembles this when I was living in Asia. I can't recall if I ate it during my time living in Hong Kong, or if I had to during a trip to China. But I do remember really enjoying this dish!
 
+<p align="center">
+<img src="/images/2022-04-29-salt-and-sichaun-pepper-hashbrowns/frying.jpeg" width="500">
+</p>
+
 I've been really into Chinese cooking lately, and wanted to recreate this dish. Of course, my family is Cantonese and Hakka, and I grew up in Canada. So, this is my **Western/Cantonese/Hakka interpretation of this Sichuanese dish**.
 
 <p align="center">
