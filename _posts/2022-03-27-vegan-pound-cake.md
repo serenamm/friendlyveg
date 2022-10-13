@@ -2,7 +2,7 @@
 date: 2022-03-27
 title: Vegan Pound Cake (5 ingredients only and non-vegan approved!)
 categories:
-  - Loaf Bread
+  - Baking
 featured_image: /images/2022-03-25-pound-cake/IMG_4777.jpeg
 recipe:
   servings: 8 servings

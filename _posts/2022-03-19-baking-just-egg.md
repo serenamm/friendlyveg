@@ -4,7 +4,7 @@ title: Can You Bake with Just Egg? The Answer is YES!
 layout: post
 featured_image: /images/2022-03-25-pound-cake/justegg.png
 categories:
-  - Vegan Baking
+  - Baking
 blog:
   - Yes
 ---

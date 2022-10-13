@@ -2,7 +2,7 @@
 date: 2022-05-23
 title: Cauliflower Chickpea Curry (Super Easy and Great for Meal Prep!)
 categories:
-  - Curry
+  - Meal Prep
 featured_image: /images/2022-05-23-cauliflower-chickpea-curry/IMG_8516.PNG
 recipe:
   servings: 4 servings

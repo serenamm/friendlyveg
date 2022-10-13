@@ -7,7 +7,7 @@ featured_image: /images/2022-10-06-cashew-cream-cheese/cashew_cream_cheese.png
 blog:
 - Yes
 recipe:
-  servings: 2-3 person
+  servings: 2-3
   prep: 5 minutes
   cook: 0 minutes
   ingredients_markdown: |-

@@ -2,7 +2,7 @@
 date: 2022-04-05
 title: Vegan Cream Egg Filling (Only 10 Minutes)
 categories:
-  - Vegan Baking
+  - Baking
 featured_image: /images/2022-04-05-cream-egg/cream_egg.png
 recipe:
   servings: 16 servings

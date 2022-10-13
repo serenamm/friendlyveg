@@ -2,7 +2,7 @@
 date: 2022-04-07
 title: Vegan Cream Egg Nanaimo Bars (Crunchy! Super Easy to Make!)
 categories:
-  - Vegan Baking
+  - Baking
 featured_image: /images/2022-04-05-cream-egg-nanaimo-bars/IMG_5374.jpeg
 recipe:
   servings: 16 servings
