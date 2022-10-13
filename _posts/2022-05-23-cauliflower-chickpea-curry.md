@@ -49,3 +49,5 @@ My partner threw this together the other night, and I didn't even think to have 
 <img src="/images/2022-05-23-cauliflower-chickpea-curry/IMG_8517.PNG" width="500">
 </p>
 
+---
+Easily veganize any recipe with <a href='https://foodshakeapp.com/'>Foodshake!</a> With Foodshake you can enjoy the vegan version of the recipes you know and love!

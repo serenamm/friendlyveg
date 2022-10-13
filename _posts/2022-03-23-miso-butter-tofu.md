@@ -51,3 +51,5 @@ alt="The marinade: Miso, vegan margarine, and soya sauce.">
 </p>
 
 If you're not a fan of soya sauce, you can feel fee to omit it, or use any sort of salt you'd like. Personally, I find that the soya sauce combined with butter and miso come together to create that **perfect umami taste**.
+---
+Easily veganize any recipe with <a href='https://foodshakeapp.com/'>Foodshake!</a> With Foodshake you can enjoy the vegan version of the recipes you know and love!

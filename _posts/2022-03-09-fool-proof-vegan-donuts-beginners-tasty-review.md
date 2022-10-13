@@ -52,3 +52,5 @@ Overall, these are great donuts for a beginner like myself!
 <p align="center">
 <iframe width="636" height="358" src="https://www.youtube.com/embed/u0yTacOSKTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+---
+Easily veganize any recipe with <a href='https://foodshakeapp.com/'>Foodshake!</a> With Foodshake you can enjoy the vegan version of the recipes you know and love!

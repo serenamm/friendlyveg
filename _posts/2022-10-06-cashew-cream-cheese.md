@@ -32,10 +32,13 @@ Blend it up, and stop to scrape and add more water. You'll likely want to add ab
 
 Eventually you'll get a nice creamy consistency. At this point you can add some herbs, and blend it up a final time with the herbs in the cream cheese. I used basil from my garden!
 
-Finally, scrap it into a container and enjoy it :)
+Finally, scrape it into a container and enjoy it :)
 
 This costs less than half the price of what you would buy at the store, and it's just as delicious!
 
 <p align="center">
 <iframe width="636" height="358" src="https://www.youtube.com/embed/HvcDDdYi2tQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
+---
+Easily veganize any recipe with <a href='https://foodshakeapp.com/'>Foodshake!</a> With Foodshake you can enjoy the vegan version of the recipes you know and love!

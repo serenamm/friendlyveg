@@ -26,3 +26,5 @@ alt="The Odd Burger logo.">
 # About Odd Burger
 
 Founded in 2014, Odd Burger is Canada's **first vegan fast food chain**, and is the first vegan fast food chain to go **public** under the ticker **TSXV:ODD**. Very exciting stuff! They are located in Ontario with plans to expand across Canada and internationally.
+---
+Easily veganize any recipe with <a href='https://foodshakeapp.com/'>Foodshake!</a> With Foodshake you can enjoy the vegan version of the recipes you know and love!

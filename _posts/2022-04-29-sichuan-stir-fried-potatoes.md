@@ -67,3 +67,5 @@ There are 2 keys to this dish:
 If you like spices other than Sichuan peppercorn and cumin, you can feel free to add them in. Chili flakes would be a nice addition!
 
 Adapted from [China Sichuan Food](https://www.chinasichuanfood.com/sauteed-small-potatoes-with-salt-and-pepper/).
+---
+Easily veganize any recipe with <a href='https://foodshakeapp.com/'>Foodshake!</a> With Foodshake you can enjoy the vegan version of the recipes you know and love!

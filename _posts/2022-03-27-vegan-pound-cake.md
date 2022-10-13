@@ -56,3 +56,5 @@ alt="Just Egg. Part of a post on How to use Just Egg in Baking.">
 </p>
 
 One thing to note is that **white sugar isn't vegan everywhere**. Bone char is often used to filter white sugar in certain regions - if this is a concern in your area, I recommend you buy **organic sugar** which does not use bone char in the filtration process.
+---
+Easily veganize any recipe with <a href='https://foodshakeapp.com/'>Foodshake!</a> With Foodshake you can enjoy the vegan version of the recipes you know and love!

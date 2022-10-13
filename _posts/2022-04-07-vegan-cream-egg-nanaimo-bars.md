@@ -95,3 +95,5 @@ The cream egg is **incredibly easy**. All you do is blend up the corn syrup, veg
 <p align="center">
 <img src="/images/2022-04-05-cream-egg-nanaimo-bars/IMG_5376.jpeg" width="500">
 </p>
+---
+Easily veganize any recipe with <a href='https://foodshakeapp.com/'>Foodshake!</a> With Foodshake you can enjoy the vegan version of the recipes you know and love!

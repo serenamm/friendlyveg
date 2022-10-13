@@ -73,3 +73,5 @@ alt="The vegan salmon on a pan, ready to fry.">
 ## Make it gluten free! 
 
 If soya sauce isn't for you, feel free to use **tamari**. **Coconut aminos** would work too to make this *gluten free*. 
+---
+Easily veganize any recipe with <a href='https://foodshakeapp.com/'>Foodshake!</a> With Foodshake you can enjoy the vegan version of the recipes you know and love!

@@ -36,3 +36,5 @@ Before the pandemic they had delicious cafe food as well - I have fond memories 
 </p>
 
 <!-- TO DO: Addresses -->
+---
+Easily veganize any recipe with <a href='https://foodshakeapp.com/'>Foodshake!</a> With Foodshake you can enjoy the vegan version of the recipes you know and love!

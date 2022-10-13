@@ -39,3 +39,5 @@ The use of ketchup in this recipe might seem strange, but trust me on this!
 If the sauce is too watery, try adding more corn starch or letting it boil for longer (or both!). Eventually it'll become the consistency you like.
 
 
+---
+Easily veganize any recipe with <a href='https://foodshakeapp.com/'>Foodshake!</a> With Foodshake you can enjoy the vegan version of the recipes you know and love!

@@ -59,3 +59,5 @@ alt="The finished smoothie, with a half cut beet and banana next to it.">
 <p align="center">
 <iframe width="636" height="358" src="https://www.youtube.com/embed/YGufFSTd2Oc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+---
+Easily veganize any recipe with <a href='https://foodshakeapp.com/'>Foodshake!</a> With Foodshake you can enjoy the vegan version of the recipes you know and love!

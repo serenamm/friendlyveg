@@ -80,3 +80,5 @@ You can use any spices you like. I chose to use Chinese five spice, but you coul
 <img src="/images/2022-02-24-sweet-and-sour-cauliflower/plated.jpeg" width="500"
 alt="The final cauliflower wings, plated.">
 </p>
+---
+Easily veganize any recipe with <a href='https://foodshakeapp.com/'>Foodshake!</a> With Foodshake you can enjoy the vegan version of the recipes you know and love!
