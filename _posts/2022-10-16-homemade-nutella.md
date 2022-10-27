@@ -3,7 +3,7 @@ date: 2022-10-16
 title: Homemade Nutella (2 Ingredients!)
 categories:
   - Spreads and Sauces
-featured_image: /images/2022-10-13-homemade-nutella/IMG_4026.jpg
+featured_image: /images/2022-10-16-homemade-nutella/IMG_4026.jpg
 blog:
 - yes
 recipe:
