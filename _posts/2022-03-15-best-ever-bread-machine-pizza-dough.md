@@ -17,14 +17,15 @@ recipe:
     * 3 tbsp olive oil
     * 1/2 cup corn meal
   directions_markdown: |-
-    1. Place ingredients in your bread maker.
+    1. Place the flour, yeast, sugar, salt, and lukewarm water into your bread maker.
     2. Turn the break maker on and use the "dough" setting. Walk away, and let your bread maker do its thing!
     3. Skip straight to step 6 if doing a single rise. When the dough is ready, take it out place it in a lightly covered bowl.
     4. Punch the dough down.
     5. Cover the dough with plastic wrap and a clean kitchen towel. Let sit for about 2 hours until it's doubled in size.
-    6. Before rolling the dough out, grease a baking sheet or pizza pan with oil, and sprinkle corn meal on top.
-    7. Roll the dough out into the desired size.
-    8. Top with your favourite toppings and bake for 15 - 20 minutes until slightly brown.
+    6. Preheat your oven to 425 degrees F.
+    7. Before rolling the dough out, grease a baking sheet or pizza pan with the 3 tbsp of oil, and sprinkle the 1/2 cup of corn meal on top.
+    8. Roll the dough out into the desired size.
+    9. Top with your favourite toppings and bake for 15 - 20 minutes until slightly brown.
 ---
 
 

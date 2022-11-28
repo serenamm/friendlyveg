@@ -20,6 +20,7 @@ recipe:
     * 1 can of chickpeas
     * 1 tbsp tomato paste
     * 1 can of tomatoes
+    * 1 can of coconut milk (full fat or light works -- it's up to you!)
     * 1 head of cauliflower
   directions_markdown: |-
     1. Preheat your oven to 400 degrees.
